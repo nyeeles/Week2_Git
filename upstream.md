@@ -1,1 +1,1 @@
-What is the upstream?
+The upstream is the original repo that a project was forked from
